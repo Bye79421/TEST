@@ -1,4 +1,4 @@
-TEST/
+JSON/
   package.json
   app/
   public/
@@ -97,9 +97,3 @@ TEST/
     "react": "latest",
     "react-dom": "latest"
   }
-}
-"dependencies": {
-  "next": "latest",
-  "react": "latest",
-  "react-dom": "latest"
-}
