@@ -73,3 +73,10 @@ export default function Home() {
     </main>
   );
 }
+{
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
